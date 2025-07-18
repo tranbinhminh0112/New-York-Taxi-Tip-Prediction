@@ -2,9 +2,12 @@
 
 This project focuses on building regression models to predict taxi **fare amount** and **tip amount** based on ride features. The dataset is derived from New York City taxi ride data.
 
+Raw data can be accessed here:
+https://drive.google.com/drive/folders/1mcp_XcJfDfHbH3kHeQcJr4IbHtYBmciu?usp=sharing
+
 ## Project Overview
 
-We aim to:
+I aim to:
 - Predict **fare amount** and **tip amount** using historical taxi ride features.
 - Apply rigorous **data preprocessing**, **feature engineering**, and **hyperparameter tuning**.
 - Evaluate models based on **Root Mean Squared Error (RMSE)**.
